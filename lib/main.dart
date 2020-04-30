@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final theme = ThemeData(
-      primarySwatch: Colors.blue,
+      primarySwatch: Colors.green,
     );
 
     return MaterialApp(
@@ -32,9 +32,9 @@ class MyApp extends StatelessWidget {
         child: StreamChat(
           streamChatThemeData: StreamChatThemeData.fromTheme(theme).copyWith(
             ownMessageTheme: MessageTheme(
-              messageBackgroundColor: Colors.blueAccent,
+              messageBackgroundColor: Colors.lightGreenAccent,
               messageText: TextStyle(
-                color: Colors.white,
+                color: Colors.black,
               ),
               avatarTheme: AvatarTheme(
                 borderRadius: BorderRadius.circular(8),
