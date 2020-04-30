@@ -1,7 +1,7 @@
-# Flutter Chat Example Application
+# Flutter Chat Application for MayaData
 
-An example chat application using Flutter and Stream Chat.
+A chat application build using Flutter, Stream Chat and a bit of Love ❤️.
 
-## Getting Started
-
-Make sure to follow the steps from the [tutorial](https://getstream.io/chat/flutter/tutorial/).
+Name: Arkajyoti Mukherjee
+Roll no: 1706401
+Email: 1706401@gmail.com
